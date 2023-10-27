@@ -4,9 +4,9 @@
 
 <instance-profile id="hi"
                  name="RPG-SRD"
-                 start-page="index.md">
+                 start-page="Home.md">
 
-    <toc-element topic="index.md"/>
+    <toc-element topic="Home.md"/>
     <toc-element topic="1_Создание-персонажа.md"/>
     <toc-element topic="Повышение-уровня.md"/>
     <toc-element topic="1-4-КЛАСС.md">
