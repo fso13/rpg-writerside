@@ -8,12 +8,19 @@
 
     <toc-element topic="index.md"/>
     <toc-element topic="1_Создание-персонажа.md"/>
+    <toc-element topic="Повышение-уровня.md"/>
     <toc-element topic="1-4-КЛАСС.md">
         <toc-element topic="1-4-1-маг.md"/>
         <toc-element topic="1-4-2-плут.md"/>
         <toc-element topic="1-4-3-воин.md"/>
     </toc-element>
-    <toc-element topic="2_МАГИЯ.md"/>
+    <toc-element topic="2_МАГИЯ.md">
+        <toc-element topic="2-4-Магия-созидания.md"/>
+        <toc-element topic="2-3-Магия-природы.md"/>
+        <toc-element topic="2-5-Магия-энтропии.md"/>
+        <toc-element topic="2-1-Магия-духа.md"/>
+        <toc-element topic="2-2-Магия-крови.md"/>
+    </toc-element>
     <toc-element topic="3_ТАЛАНТЫ.md"/>
     <toc-element topic="4_СПЕЦИАЛИЗАЦИЯ.md"/>
     <toc-element topic="5_ОРУЖИЕ-И-СНАРЯЖЕНИЕ.md"/>
