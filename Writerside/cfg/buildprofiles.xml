@@ -5,7 +5,11 @@
         <algolia-index>Writerside</algolia-index>
         <algolia-api-key>a0d9dc73999d6ca93507555856740a54</algolia-api-key>
     </variables>
-    <build-profile instance="instance_id"/>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
     <footer>
         <copyright>Product 2023</copyright>
         <social type="blog" href=""></social>
