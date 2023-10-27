@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="RPG SRD v2.0.0-SNAPSHOT"
+                 name="RPG-SRD"
                  start-page="index.md">
 
     <toc-element topic="index.md"/>
