@@ -1,0 +1,14 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <algolia-id>LY4L4WKZUP</algolia-id>
+        <algolia-index>Writerside</algolia-index>
+        <algolia-api-key>a0d9dc73999d6ca93507555856740a54</algolia-api-key>
+    </variables>
+    <build-profile instance="instance_id"/>
+    <footer>
+        <copyright>Product 2023</copyright>
+        <social type="blog" href=""></social>
+        <social type="twitter" href=""></social>
+    </footer>
+</buildprofiles>
