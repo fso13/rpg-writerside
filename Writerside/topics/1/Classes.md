@@ -31,6 +31,6 @@
 
 Существуют три класса: 
 
-* [Маг](1-4-1-mag.md)
-* [Плут](1-4-2-plut.md)
-* [Воин](1-4-3-voin.md)
+* [Маг](ClassMag.md)
+* [Плут](ClassRogue.md)
+* [Воин](ClassWarrior.md)
