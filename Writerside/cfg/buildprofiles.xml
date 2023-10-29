@@ -4,7 +4,7 @@
         <algolia-id>LY4L4WKZUP</algolia-id>
         <algolia-index>Writerside</algolia-index>
         <algolia-api-key>a0d9dc73999d6ca93507555856740a54</algolia-api-key>
-        <primary-color>halloween</primary-color>
+        <primary-color>dracula</primary-color>
         <noindex-content>false</noindex-content>
     </variables>
     <build-profile instance="hi"/>
