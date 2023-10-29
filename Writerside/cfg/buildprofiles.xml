@@ -5,12 +5,9 @@
         <algolia-index>Writerside</algolia-index>
         <algolia-api-key>a0d9dc73999d6ca93507555856740a54</algolia-api-key>
         <primary-color>halloween</primary-color>
+        <noindex-content>false</noindex-content>
     </variables>
-    <build-profile instance="hi">
-        <variables>
-            <noindex-content>true</noindex-content>
-        </variables>
-    </build-profile>
+    <build-profile instance="hi"/>
     <footer>
         <copyright>Product 2023</copyright>
         <social type="blog" href=""></social>
