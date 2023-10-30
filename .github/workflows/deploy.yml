@@ -29,7 +29,7 @@ env:
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: hi
   CONFIG_JSON_VERSION: 2.0
-
+  ACTIONS_STEP_DEBUG: true
 
 jobs:
   build:
