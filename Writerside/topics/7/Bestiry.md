@@ -1,3 +1,0 @@
-# Бестиарий
-
-Start typing here...
